@@ -2,6 +2,8 @@
 
 A rainbow shader cube animation built with modern web technologies.
 
+![Thumbnail](Thumbnail.png)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
